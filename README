@@ -1,0 +1,5 @@
+SCA AEP :
+ Here, some manual work to be done by creating directory named "aep" and  placing some supporting files in respective directory.
+      1.Create a directory named "aep" inside  /usr/local/share/ directory.
+      2.Place SCA_Compliant.txt and SCA_NonCompliant.txt insie /usr/local/share/aep/ directory.
+       
